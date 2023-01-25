@@ -13,4 +13,4 @@ streamlit.text('🥑🍞Avocado Toast')
 
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
-streamlit.database(my_fruit_list)
+streamlit.dataframe(my_fruit_list)
